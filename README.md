@@ -24,8 +24,10 @@ Oi me chamo Lucas, tenho 20 anos, atualmente estou cursando faculdade de Ciênci
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=akumapw&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
 <br>
 <br>
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
