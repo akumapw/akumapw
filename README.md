@@ -1,4 +1,4 @@
-# 👨🏿‍💻 Lucas Rodrigues
+#  Lucas Rodrigues
 
 **`Desenvolvedor FullStack`**
 
@@ -6,7 +6,7 @@ Oi me chamo Lucas, tenho 20 anos, atualmente estou cursando faculdade de Ciênci
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+###  Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -68,7 +68,7 @@ Oi me chamo Lucas, tenho 20 anos, atualmente estou cursando faculdade de Ciênci
 <br/>
 <br/>
 
-### 📊 Estatísticas
+###  Estatísticas
 
 <p>
   <img 
