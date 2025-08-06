@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Oi me chamo Lucas, tenho 20 anos, atualmente estou cursando faculdade de Ciências da Computação na UNIPAC - MG. Estou sempre buscando aprender mais e melhorar minhas habilidades.
+Oi me chamo Lucas, tenho 20 anos, atualmente estou cursando faculdade de Ciências da Computação na UNIPAC - MG. Atualmente busco me especializar como engenheiro de software. Focando em automatizar e criar softwares para ajudar/facilitar o tempo em tarefas cotidianas.
 
 ---
 
